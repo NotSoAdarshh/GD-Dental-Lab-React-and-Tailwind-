@@ -1,6 +1,7 @@
 import Nav from "./components/navbar"
 import Hero from "./components/hero"
 import MCard from "./components/work_card"
+import MProfiles from "./components/team"
 import Bg from "./components/Bg"
 
 
@@ -18,6 +19,9 @@ function App() {
       <div className="mr-8 ml-8 pt-24">
         <MCard></MCard>
       </div>
+    </div>
+    <div className="bg-black h-dvh">
+      <MProfiles></MProfiles>
     </div>
 </>
   )
