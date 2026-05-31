@@ -14,8 +14,10 @@ function App() {
       <div>
       </div>
     </div>
-    <div className="bg-[url(./assets/bg_poster_2.jpg)] h-dvh bg-cover">
-      <MCard></MCard>
+    <div className="bg-[url(./assets/bg_poster_1.jpg)] h-dvh bg-cover">
+      <div className="mr-8 ml-8 pt-24">
+        <MCard></MCard>
+      </div>
     </div>
 </>
   )
