@@ -7,7 +7,7 @@ function Nav() {
     <div className="flex ml-auto mr-10 mt-4 ">
       <a href="#our_story_sec" className='no-underline'>Our Story</a>
       <a href="#team_sec" className="pl-4 no-underline">Team</a>
-      <a href="#services_sec" className="pl-4 !no-underline">Services</a>
+      <a href="#services_sec" className="pl-4 no-underline">Services</a>
     </div>
   </div>
   </>)
